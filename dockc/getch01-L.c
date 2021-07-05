@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <conio.h> // 리눅스에서는 conio.h 파일이 제공되지 않는다.
+//#include <conio.h> // 리눅스에서는 conio.h 파일이 제공되지 않는다.
 
 int main(void)
 {
